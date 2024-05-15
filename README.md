@@ -10,5 +10,5 @@ The proxy server intercepts client requests, forwards them to the destination se
 
 - Concurrent handling of multiple client connections using a thread pool.
 - Basic error handling and response generation for various HTTP status codes.
-- Filter for blocking access to specific hosts.
+- Filter for blocking access to specific hosts. (example for filter file added)
 
